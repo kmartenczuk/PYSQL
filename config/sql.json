@@ -1,0 +1,9 @@
+{
+    "drivers" : "Sql Server",
+    "server" : "46.41.149.32",
+    "port" : "1433",
+    "user" : "pysql-demo-app",
+    "password" : "pysql-demo-app123",
+    "database" : "DEMO.PYSQL",
+    "Trusted_Connection": "no"
+}
